@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #393E46;
+  width: 100%;
+  height: 100vh;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/*-------------------------------working area section*------------------------------------------*/
+header {
+  width: 85%;
+  height: 95%;
+  border: 1px solid #fff;
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+
+/*Inside the work area*/
+header .left_menu_side {
+  width: 35%;
+  height: 90%;
+  border: 1px solid white;
+  background-color: black;
+
+}
+
+header .right_song_side {
+  width: 75%;
+  height: 90%;
+  border: 1px solid white;
+  background-color: #51557E;
+}
+
+header .bottom_play_side {
+  width: 100%;
+  height: 10%;
+  border: 1px solid white;
+  background-color: blue;
+}
