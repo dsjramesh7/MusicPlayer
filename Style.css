@@ -50,6 +50,7 @@ header .bottom_play_side {
   box-shadow: 5px 0px 2px #090f1f;
 }
 
+
 /*==========================left side menu====================================*/
 header .left_menu_side h1 {
   font-size: 20px;
@@ -237,7 +238,7 @@ header .bottom_play_side .volume input {
 }
 
 
-/*                             right section: Song side                                   */
+/*                             right section: Song side of the page                                */
 header .right_song_side {
   z-index: 2;
 }
